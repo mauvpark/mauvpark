@@ -1,4 +1,9 @@
 ### Hi there 👋
+My nickname is **Mauv**.
+<br />
+- ⚡ Fun fact: I loved violet when I started Github, I have no idea what to make as my nickname. At the time, I thought `Oh I really love violet color so my nickname should be ${Mauv} from ${Mauve}. That sounds beautiful!`
+<br /><br />
+- 📫 How to reach me: [Mauv page](https://mauv-page.vercel.app)
 
 <!--
 **Mauv-hub/Mauv-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
