@@ -1,9 +1,12 @@
 ### Hi there 👋
 My nickname is **Mauv**.
 <br />
-- ⚡ Fun fact: I loved violet when I started Github, I have no idea what to make as my nickname. At the time, I thought `Oh I really love violet color so my nickname should be ${Mauv} from ${Mauve}. That sounds beautiful!`
+- 😈 About nickname: "Mauv" is originated in "Mauve".
+- 🌈 I am Front-end developer(React is my favorite but I am open-minded person).
+- 💪🏼 I am trying to find a way of sharing my tips and knowledges.
 <br /><br />
-- 📫 How to reach me: [Mauv page](https://mauv-page.vercel.app)
+- 👋🏼 Introduction: [Mauv page](https://mauv-page.vercel.app)
+- 📫 How to reach me: <a href="mailto:mauvpark@gmail.com">This is my email</a>
 - 💬 Blog: [Mauv blog](https://mauvpark.github.io)
 
 <!--
