@@ -2,7 +2,7 @@
 My nickname is **Mauv**.
 <br />
 - 😈 About nickname: "Mauv" is originated in "Mauve".
-- 🌈 I am Front-end developer(React is my favorite but I am open-minded person).
+- 🌈 I am a front-end developer(React is my favorite but I am an open-minded person).
 - 💪🏼 I am trying to find a way of sharing my tips and knowledges.
 <br /><br />
 - 👋🏼 Introduction: [Mauv page](https://mauv-page.vercel.app)
