@@ -1,3 +1,4 @@
+[![HitCount](https://hits.dwyl.com/mauvpark/mauvpark.svg?style=flat-square&show=unique)](http://hits.dwyl.com/mauvpark/mauvpark)
 ### Hi there 👋
 My nickname is **Mauv**.
 <br />
