@@ -69,7 +69,7 @@
 
 ### socketIO-server-example
 
-**socketIO-server-example 은 소켓 통신의 서버 파트를 참고할 수 있도록 만든 레포지토리입니다.
+**socketIO-server-example** 은 소켓 통신의 서버 파트를 참고할 수 있도록 만든 레포지토리입니다.
 
 레포지토리: https://github.com/mauvpark/socketIO-server-example
 
